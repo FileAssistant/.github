@@ -40,8 +40,6 @@ Where Finder focuses on browsing, FileAssistant focuses on **workflows**: mirror
 
 ## 📸 Screens & Previews
 
-![Dual Pane & Sync](https://static.macupdate.com/screenshots/339511/m/fileassistant-screenshot.png?v=1656143504)
-
 ![Sync Box & Quick Actions](https://www.doyourdata.com/images/file-assistant/best-sync-box-for-mac-file-management.jpg)
 
 ---
