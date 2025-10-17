@@ -3,7 +3,7 @@
 ![FileAssistant Icon](https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/89/42/18/89421867-d16a-147d-f053-374816fe4967/mzl.unfdkonh.png/1200x630bb.png)
 
 <div align="center" style="margin:14px 0;">
-  <a href="http://fileassistant.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/File">
     <img src="https://img.shields.io/badge/⬇️_GET_FILEASSISTANT-slategray?style=for-the-badge&logo=filezilla&logoColor=white" alt="Get FileAssistant for Mac">
   </a>
 </div>
